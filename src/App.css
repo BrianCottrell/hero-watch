@@ -1,0 +1,61 @@
+
+
+.pointer {
+    cursor: pointer;
+}
+
+.centered {
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.pet-preview {
+    width: 500px;
+}
+
+.standard-card {
+    padding: 20px;
+    min-width: 250px;
+    margin: 20px;
+}
+
+.standard-btn {
+    margin: 10px;
+}
+
+.creator-card {
+    max-width: 250px;
+    min-width: 120px;
+    margin: 10px;
+    display: inline-block;
+    background-color: #f0f0f0;
+}
+
+.sell-header {margin-bottom: 10px;}
+
+.bold {
+    font-weight: bold;
+}
+
+.error-text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: red;
+}
+
+.normal-link {
+    text-decoration: none;
+    color: blue;
+}
+
+.normal-link:hover {
+    text-decoration: underline;
+}
